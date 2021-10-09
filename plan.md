@@ -1,4 +1,4 @@
-### Plan
+# Plan
 
 ## What the app needs to do
 
@@ -7,6 +7,7 @@
 - Have a notification appear on phone saying which medication to take and what the pollen count/pressure is
 - For migraine medication, send another notification after 72 hrs if the pressure is still aboove the trigger point
 - Have a refresh button to allow the manual request of data
+- Cache the data to minimise the requests made to the backend (React Query)
 
 ## Components required:
 

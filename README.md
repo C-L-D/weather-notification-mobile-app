@@ -14,6 +14,7 @@ I suffer from weather induced migraines and hayfever but I often find that I for
 - Plan visual layout ✔️
 - Initialise component folder structure ✔️
 - Create test data
+  - Create backend - In progress
 - Import required modules
 - Detailed plan of components and functions
 - Create tests for comp
