@@ -11,8 +11,8 @@ I suffer from weather induced migraines and hayfever but I often find that I for
 - Plan functionality ✔️
 - Plan components ✔️
 - Plan functions ✔️
-- Plan visual layout - In progress
-- Initialise component folder structure
+- Plan visual layout ✔️
+- Initialise component folder structure - In Progress
 - Create test data
 - Import required modules
 - Detailed plan of components and functions

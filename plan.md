@@ -10,6 +10,8 @@
 
 ## Components required:
 
+Find a component library - Native Base
+
 - Main app page
 - Button
 - Notification
