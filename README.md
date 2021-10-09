@@ -21,6 +21,9 @@ I suffer from weather induced migraines and hayfever but I often find that I for
 - Code components and functions
 - Run tests
 
+# License
+MIT
+
 # Credits
 
 - Claire Doswell
