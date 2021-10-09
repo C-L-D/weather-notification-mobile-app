@@ -12,7 +12,7 @@ I suffer from weather induced migraines and hayfever but I often find that I for
 - Plan components ✔️
 - Plan functions ✔️
 - Plan visual layout ✔️
-- Initialise component folder structure - In Progress
+- Initialise component folder structure ✔️
 - Create test data
 - Import required modules
 - Detailed plan of components and functions
