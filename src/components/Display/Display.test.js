@@ -10,6 +10,7 @@
 
 import Display from "./";
 import image from "../../../assets/cloud.png";
+import { render } from "@testing-library/react";
 import "@testing-library/jest-native/extend-expect";
 
 describe("The display component should:", () => {

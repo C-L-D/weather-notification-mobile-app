@@ -10,7 +10,7 @@
 // with a red no button
 
 import Notification from "./";
-import image from "../../../assets/cloud.png";
+import { render } from "@testing-library/react";
 import "@testing-library/jest-native/extend-expect";
 
 describe("The notification component should:", () => {
